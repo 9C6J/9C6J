@@ -1,50 +1,20 @@
-### Hi there 👋
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=9C6J)](https://github.com/anuraghazra/github-readme-stats)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=9C6J&show_icons=true&theme=radical)
-
-
-
-<img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=Java#007396&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/SAP UI5-0FAAFF?style=flat-square&logo=SAP&logoColor=white"/>
-
-<!--
-**9C6J/9C6J** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...\
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
 # Hi There 👋
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcherr0&count_bg=%23F54F75&title_bg=%23828282&icon=baidu.svg&icon_color=%23FFFFFF&title=VISIT&edge_flat=true)](https://hits.seeyoufarm.com)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:adsl1664@gmail.com) [![Instagram Badge](https://img.shields.io/badge/Instagram-9c38d1?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/cherro0_0) 
+
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/9C6J%2Fgjbae1212%2Fhit-counter) 
+<img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=Java#007396&logoColor=white"/><img src="https://img.shields.io/badge/SAP UI5-0FAAFF?style=flat-square&logo=SAP&logoColor=white"/>
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/9C6J&count_bg=%23F54F75&title_bg=%23828282&icon=baidu.svg&icon_color=%23FFFFFF&title=VISIT&edge_flat=true)](https://hits.seeyoufarm.com)
 
 
 ### Who Am I
 - 💻 I’m currently learning `JavaScript`, `TypeScript`, `Vue`
 - ✏️ I'm a developer who pursues learning.
-- 🏠 My hometown is Daegu in Korea
+- 🏠 I live in korea
 
 <div align="justify">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=9C6J&layout=compact&theme=dracula" />
-  <img src="https://github-readme-stats.vercel.app/api?username=9C6J&show_icons=true&theme=dracula" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=9C6J&layout=compact&theme=white" />
+  <img src="https://github-readme-stats.vercel.app/api?username=9C6J&show_icons=true&theme=white" />
 </div>
-
 
 <br>
 <br>
@@ -73,7 +43,6 @@ Here are some ideas to get you started:
 </div>
 
 </td><td valign="top" width="33%">
-
 
 
 ### Backend  
