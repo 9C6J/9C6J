@@ -1,6 +1,8 @@
-<div align="center" style="overflow: hidden;height: 150px;width: 1000px;">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="max-height: initial;margin-top: -27%;margin-left: -12%;" />
-</div>    
+
+<div align="center">
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" height="300vmax" />
+</div> 
+<!-- style="max-height: initial;margin-top: -27%;margin-left: -12%;" -->
 
 ### <div align="center">I'm ChaJae, a full-time front-end developer 👨‍💻 working since 2020 🚀</div>  
   
