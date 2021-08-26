@@ -6,10 +6,10 @@
 ### <div align="center">I'm Cha Jae Young a full-time front-end developer 👨‍💻 working since 2020 🚀</div>  
   
 
-- 🔭 I’m currently working on [Github Profilinator](https://github.com/)  
+- 🔭 I’m working on
   
 
-- 🌱 I’m currently learning SAP UI5 Fiori and Java  
+- 🌱 I’m currently learning SAP UI5 Fiori Using Java and Javascript
   
 
 - ❓ Ask me about anything  
