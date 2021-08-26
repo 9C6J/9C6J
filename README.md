@@ -82,7 +82,7 @@
 <br/>  
 
 
-## Connect with me  
+<!-- ## Connect with me  
 <div align="center">
 <a href="https://github.com/rishavanand" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -102,7 +102,7 @@
 <a href="https://instagram.com/iamrishavanand" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
-</div>  
+</div>   -->
   
 
 <br/>  
@@ -122,5 +122,3 @@
 
 
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/9C6J%2Fgjbae1212%2Fhit-counter) 
-<img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=Java#007396&logoColor=white"/><img src="https://img.shields.io/badge/SAP UI5-0FAAFF?style=flat-square&logo=SAP&logoColor=white"/>
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/9C6J&count_bg=%23F54F75&title_bg=%23828282&icon=baidu.svg&icon_color=%23FFFFFF&title=VISIT&edge_flat=true)](https://hits.seeyoufarm.com)
