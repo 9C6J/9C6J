@@ -1,13 +1,12 @@
 
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" height="300vmax" />
+<div  align="center">
+<img  src="https://rishavanand.github.io/static/images/greetings.gif" align="center" height="200vmax" />
 </div> 
-<!-- style="max-height: initial;margin-top: -27%;margin-left: -12%;" -->
 
-### <div align="center">I'm ChaJae, a full-time front-end developer 👨‍💻 working since 2020 🚀</div>  
+### <div align="center">I'm Cha Jae Young a full-time front-end developer 👨‍💻 working since 2020 🚀</div>  
   
 
-- 🔭 I’m currently working on [Github Profilinator](https://github.com/rishavanand/github-profilinator)  
+- 🔭 I’m currently working on [Github Profilinator](https://github.com/)  
   
 
 - 🌱 I’m currently learning SAP UI5 Fiori and Java  
@@ -42,6 +41,17 @@
 
 ### Backend  
 <div align="center">   
+  
+<img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />  
+<img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />  
+<img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/arduino.png" alt="Arduino" height="50" />  
+<img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/mariadb.png" alt="Maria DB" height="50" />  
+  
+<img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" />  
+<img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/oracle-original.svg" alt="Oracle" height="50" />  
+<img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg" alt="Spring" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
+  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />  
