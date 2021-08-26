@@ -15,7 +15,7 @@
 - ❓ Ask me about anything  
   
 
-- ⚡ Fun fact: I use tabs over spaces   g
+- ⚡ Fun fact: I use tabs over spaces   gg
   
 
 <br/>  
