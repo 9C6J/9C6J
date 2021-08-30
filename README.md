@@ -69,7 +69,9 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" title="Git" height="50" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg" alt="Spring" title="Spring" height="50" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" title="PowerShell" height="50" />  
-<img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thu…on.svg/512px-Visual_Studio_Code_1.35_icon.svg.png" alt="VSCode" title="VSCode" height="50" />  
+<img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="VSCode" title="VSCode" height="50" />
+<img style="margin: 10px" src="https://cdn.icon-icons.com/icons2/1381/PNG/512/eclipse_94656.png" alt="Eclipse" title="Eclipse" height="50" />     
+      
       	
       
 </div>
